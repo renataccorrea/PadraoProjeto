@@ -19,7 +19,7 @@ namespace Chapter01
         }
 
         public AbstractVan(IEngine engine, VehicleColour colour)
-            : base(engine, colour)
+            : base(engine, colour )
         {
         }
 
