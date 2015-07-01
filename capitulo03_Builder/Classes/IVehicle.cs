@@ -5,8 +5,7 @@ using System.Text;
 
 namespace capitulo03_Builder.Classes
 {
-    public abstract class VehicleDirector
+    public interface IVehicle
     {
-        public abstract IVehicle Build(VehicleBuilder builder);
     }
 }

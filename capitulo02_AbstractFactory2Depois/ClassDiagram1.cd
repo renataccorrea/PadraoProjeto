@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="capitulo02_AbstractFactory2Depois.DbComand">
+    <Position X="4" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Classes\DbComand.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="capitulo02_AbstractFactory2Depois.DBConnection">
+    <Position X="3.75" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Classes\DBConnection.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="capitulo02_AbstractFactory2Depois.SqlCommand">
+    <Position X="2" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Classes\SqlCommand.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="capitulo02_AbstractFactory2Depois.SqlConnection">
+    <Position X="2" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Classes\SqlConnection.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="capitulo02_AbstractFactory2Depois.Classes.DBFactory">
+    <Position X="3.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAA=</HashCode>
+      <FileName>Classes\DBFactory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="capitulo02_AbstractFactory2Depois.Classes.SqlFactory">
+    <Position X="1" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAA=</HashCode>
+      <FileName>Classes\SqlFactory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

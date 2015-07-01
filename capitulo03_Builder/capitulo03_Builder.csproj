@@ -41,11 +41,12 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Classes\AbstractCar.cs" />
     <Compile Include="Classes\CarBuilder.cs" />
     <Compile Include="Classes\CarDirector.cs" />
-    <Compile Include="Classes\Client.cs" />
-    <Compile Include="Classes\VanBuilder.cs" />
-    <Compile Include="Classes\VanDirector.cs" />
+    <Compile Include="Classes\IVehicle.cs" />
+    <Compile Include="Classes\Saloon.cs" />
+    <Compile Include="Classes\StandardEngine.cs" />
     <Compile Include="Classes\VehicleBuilder.cs" />
     <Compile Include="Classes\VehicleDirector.cs" />
     <Compile Include="Program.cs" />
