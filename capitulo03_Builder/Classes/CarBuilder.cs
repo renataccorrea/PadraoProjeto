@@ -7,7 +7,7 @@ namespace capitulo03_Builder.Classes
 {
     public class CarBuilder : VehicleBuilder
     {
-        private AbstractCar carInProgress;
+        private Ve carInProgress;
 
         public CarBuilder(AbstractCar car)
         {

@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="capitulo03_Depois.Classes.CarroBuilder">
+    <Position X="2" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAE=</HashCode>
+      <FileName>Classes\CarroBuilder.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="capitulo03_Depois.Classes.Director">
+    <Position X="1" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Classes\Director.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="capitulo03_Depois.Classes.MotoBuilder">
+    <Position X="6" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAE=</HashCode>
+      <FileName>Classes\MotoBuilder.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="capitulo03_Depois.Classes.Veiculo">
+    <Position X="8.25" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAQAAAgACAAAAAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Classes\Veiculo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="capitulo03_Depois.Classes.VeiculoBuilder">
+    <Position X="4" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAIEAAAAAAAE=</HashCode>
+      <FileName>Classes\VeiculoBuilder.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

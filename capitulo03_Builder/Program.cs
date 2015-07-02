@@ -16,6 +16,7 @@ namespace capitulo03_Builder
             IVehicle v = director.Build(builder);
             Console.WriteLine(v);
             Console.Read();
+            
         }
     }
 }
