@@ -4,11 +4,11 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{E502B3EF-AC05-4C00-8749-C51E3DB91F89}</ProjectGuid>
+    <ProjectGuid>{19781767-5951-4073-9445-08EACADCA3B3}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>capitulo4_FactoryMethodAntes</RootNamespace>
-    <AssemblyName>capitulo4_FactoryMethodAntes</AssemblyName>
+    <RootNamespace>capitulo4_FactoryMethodDepois</RootNamespace>
+    <AssemblyName>capitulo4_FactoryMethodDepois</AssemblyName>
     <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>
@@ -44,8 +44,14 @@
     <Compile Include="Classes\Autenticacao.cs" />
     <Compile Include="Classes\AutenticacaoFacebook.cs" />
     <Compile Include="Classes\AutenticacaoGoogle.cs" />
+    <Compile Include="Classes\Creator.cs" />
+    <Compile Include="Classes\FacebookCreator.cs" />
+    <Compile Include="Classes\GoogleCreator.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="ClassDiagram1.cd" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
